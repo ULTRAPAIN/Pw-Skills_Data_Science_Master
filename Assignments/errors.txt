@@ -1,0 +1,2 @@
+ERROR:root:error is :-invalid literal for int() with base 10: 'hello'
+ERROR:root:error is :-division by zero
